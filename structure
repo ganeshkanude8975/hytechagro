@@ -1,0 +1,31 @@
+2 panel 
+ master =>
+    master login=>
+
+    stock=>
+        add stock =>stock name,qty,unit,stock date
+        crud
+        stock list
+
+    add driver=>
+        add driver details=>
+            name ,mobile ,address,photo,salary ,password
+            crud edit 
+            driver list
+            is available
+
+    Vehicals
+        add Vehicals=>
+            vehical name,vehical photo,vehical number
+        crud
+        vehical list
+
+    Todays delivery
+        add delivery=>
+            delivery date ,select driver,select vehical,delivery address ,sill cylinder,empty cylinder
+        crud 
+        todays delivery list
+
+ driver =>
+    login=>
+        
