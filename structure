@@ -9,10 +9,9 @@
 
     add driver=>
         add driver details=>
-            name ,mobile ,address,photo,salary ,password
+            name ,mobile ,address,photo,salary ,isavliable,password
             crud edit 
             driver list
-            is available
 
     Vehicals
         add Vehicals=>
@@ -28,4 +27,3 @@
 
  driver =>
     login=>
-        
